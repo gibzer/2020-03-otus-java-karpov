@@ -27,6 +27,8 @@ hs_err_pid*
 
 # Ignore Gradle build output directory
 build
+bulidSrc/.gradle
+buildSrc/build
 
 # Idea
 *.iml
